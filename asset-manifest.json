@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/try9/static/css/main.4cd1bffe.css",
-    "main.js": "/try9/static/js/main.b84897cb.js",
-    "static/js/787.fe1675bb.chunk.js": "/try9/static/js/787.fe1675bb.chunk.js",
-    "index.html": "/try9/index.html",
-    "main.4cd1bffe.css.map": "/try9/static/css/main.4cd1bffe.css.map",
-    "main.b84897cb.js.map": "/try9/static/js/main.b84897cb.js.map",
-    "787.fe1675bb.chunk.js.map": "/try9/static/js/787.fe1675bb.chunk.js.map"
+    "main.css": "/AnonHacker/static/css/main.4cd1bffe.css",
+    "main.js": "/AnonHacker/static/js/main.5c3673e9.js",
+    "static/js/787.fe1675bb.chunk.js": "/AnonHacker/static/js/787.fe1675bb.chunk.js",
+    "index.html": "/AnonHacker/index.html",
+    "main.4cd1bffe.css.map": "/AnonHacker/static/css/main.4cd1bffe.css.map",
+    "main.5c3673e9.js.map": "/AnonHacker/static/js/main.5c3673e9.js.map",
+    "787.fe1675bb.chunk.js.map": "/AnonHacker/static/js/787.fe1675bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4cd1bffe.css",
-    "static/js/main.b84897cb.js"
+    "static/js/main.5c3673e9.js"
   ]
 }
