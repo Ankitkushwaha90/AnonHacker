@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AnonHacker/static/css/main.ad75e911.css",
-    "main.js": "/AnonHacker/static/js/main.9c47651b.js",
+    "main.js": "/AnonHacker/static/js/main.6f3d9baf.js",
     "static/js/787.fe1675bb.chunk.js": "/AnonHacker/static/js/787.fe1675bb.chunk.js",
     "index.html": "/AnonHacker/index.html",
     "main.ad75e911.css.map": "/AnonHacker/static/css/main.ad75e911.css.map",
-    "main.9c47651b.js.map": "/AnonHacker/static/js/main.9c47651b.js.map",
+    "main.6f3d9baf.js.map": "/AnonHacker/static/js/main.6f3d9baf.js.map",
     "787.fe1675bb.chunk.js.map": "/AnonHacker/static/js/787.fe1675bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad75e911.css",
-    "static/js/main.9c47651b.js"
+    "static/js/main.6f3d9baf.js"
   ]
 }
